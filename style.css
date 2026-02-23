@@ -1,0 +1,71 @@
+body {
+  background: #be2ed6;  
+font-family: "Caveat";
+}
+
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.beastboy,.robin,.starfire,.raven,.Cyborg{
+  display: none;
+}
+
+h1 { font-size: 2vw;
+ font-family: "Playwrite NZ Basic", cursive;
+color:#be2ed6;
+}
+
+p{ font-size: 1vw;
+  font-family: "Playwrite NZ Basic", cursive;
+  color: #be2ed6;
+}
+
+div {
+ font-size:25px;
+ font-family: "Playwrite NZ Basic", cursive;
+
+
+input.questionOne,input.questionTwo {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+   border-radius: 8px;
+}
+
+.button {
+  margin-top: 20px;
+  text-align: center;
+}
+
+button {
+  width: 250px;
+  padding: 10px;
+  border: none;
+  background-color:plum;
+  color: #202322;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #F79B9C;
+}
+
+.message {
+  margin-top: 20px;
+  text-align: center;
+  color: #0080ff;
+}
+.purple{color:#D78EF9;}
+.blue {color:#55BAF0;}
+.pink{color:#F79B9C;}
+.green {color:#6AB359;}
+.red {color:#FF0000;}
